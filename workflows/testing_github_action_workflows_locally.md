@@ -18,5 +18,7 @@ act --list
 
 > once you see there are jobs then you can test and execute that workflow
 ```
-act -j test.yml
+act -j test
 ```
+> it should display something like this when job is done
+![Worfklow image2](./2.png)
