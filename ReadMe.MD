@@ -7,6 +7,6 @@
 ### Index
 
 #### Testing Workflows
-[Test Github Action Workflows locally yml file](./testing_github_action_workflows_locally.md)
+[Test Github Action Workflows locally yml file](./workflows/testing_github_action_workflows_locally.md)
 
 
